@@ -1,0 +1,6 @@
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\BMICalc\BMICalc\obj\Debug\BMICalc.csproj.CoreCompileInputs.cache
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\BMICalc\BMICalc\bin\Debug\BMICalc.exe.config
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\BMICalc\BMICalc\bin\Debug\BMICalc.exe
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\BMICalc\BMICalc\bin\Debug\BMICalc.pdb
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\BMICalc\BMICalc\obj\Debug\BMICalc.exe
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\BMICalc\BMICalc\obj\Debug\BMICalc.pdb

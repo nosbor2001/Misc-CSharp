@@ -1,0 +1,6 @@
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\Branching\Branching\bin\Debug\Branching.exe.config
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\Branching\Branching\bin\Debug\Branching.exe
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\Branching\Branching\bin\Debug\Branching.pdb
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\Branching\Branching\obj\Debug\Branching.csprojResolveAssemblyReference.cache
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\Branching\Branching\obj\Debug\Branching.exe
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\Branching\Branching\obj\Debug\Branching.pdb
