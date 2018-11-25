@@ -1,0 +1,5 @@
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\GradingSystem\GradingSystem\bin\Debug\GradingSystem.exe.config
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\GradingSystem\GradingSystem\bin\Debug\GradingSystem.exe
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\GradingSystem\GradingSystem\bin\Debug\GradingSystem.pdb
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\GradingSystem\GradingSystem\obj\Debug\GradingSystem.exe
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\GradingSystem\GradingSystem\obj\Debug\GradingSystem.pdb

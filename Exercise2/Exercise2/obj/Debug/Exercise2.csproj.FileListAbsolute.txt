@@ -1,0 +1,12 @@
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\Exercise2\Exercise2\bin\Debug\Exercise2.exe.config
+\\fs02\studentdata\2018\060202\Visual Studio 2015\Projects\Exercise2\Exercise2\bin\Debug\Exercise2.exe
+\\fs02\studentdata\2018\060202\Visual Studio 2015\Projects\Exercise2\Exercise2\bin\Debug\Exercise2.pdb
+\\fs02\studentdata\2018\060202\Visual Studio 2015\Projects\Exercise2\Exercise2\obj\Debug\Exercise2.exe
+\\fs02\studentdata\2018\060202\Visual Studio 2015\Projects\Exercise2\Exercise2\obj\Debug\Exercise2.pdb
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\Exercise2\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\Exercise2\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\Exercise2\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\Exercise2\Exercise2\obj\Debug\Exercise2.csprojAssemblyReference.cache
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\Exercise2\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\Exercise2\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\Exercise2\Exercise2\obj\Debug\Exercise2.pdb

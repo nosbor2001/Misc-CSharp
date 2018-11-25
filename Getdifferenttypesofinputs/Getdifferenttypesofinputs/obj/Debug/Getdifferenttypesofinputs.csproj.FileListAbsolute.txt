@@ -1,0 +1,6 @@
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\Getdifferenttypesofinputs\Getdifferenttypesofinputs\obj\Debug\Getdifferenttypesofinputs.csproj.CoreCompileInputs.cache
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\Getdifferenttypesofinputs\Getdifferenttypesofinputs\bin\Debug\Getdifferenttypesofinputs.exe.config
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\Getdifferenttypesofinputs\Getdifferenttypesofinputs\bin\Debug\Getdifferenttypesofinputs.exe
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\Getdifferenttypesofinputs\Getdifferenttypesofinputs\bin\Debug\Getdifferenttypesofinputs.pdb
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\Getdifferenttypesofinputs\Getdifferenttypesofinputs\obj\Debug\Getdifferenttypesofinputs.exe
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\Getdifferenttypesofinputs\Getdifferenttypesofinputs\obj\Debug\Getdifferenttypesofinputs.pdb

@@ -1,0 +1,7 @@
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\ForLoopsC1\ForLoopsC1\bin\Debug\ForLoopsC1.exe.config
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\ForLoopsC1\ForLoopsC1\bin\Debug\ForLoopsC1.exe
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\ForLoopsC1\ForLoopsC1\bin\Debug\ForLoopsC1.pdb
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\ForLoopsC1\ForLoopsC1\obj\Debug\ForLoopsC1.csprojAssemblyReference.cache
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\ForLoopsC1\ForLoopsC1\obj\Debug\ForLoopsC1.csproj.CoreCompileInputs.cache
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\ForLoopsC1\ForLoopsC1\obj\Debug\ForLoopsC1.exe
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\ForLoopsC1\ForLoopsC1\obj\Debug\ForLoopsC1.pdb
