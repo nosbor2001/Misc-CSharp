@@ -1,0 +1,6 @@
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\Ascii\Ascii\bin\Debug\Ascii.exe.config
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\Ascii\Ascii\bin\Debug\Ascii.exe
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\Ascii\Ascii\bin\Debug\Ascii.pdb
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\Ascii\Ascii\obj\Debug\Ascii.csprojResolveAssemblyReference.cache
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\Ascii\Ascii\obj\Debug\Ascii.exe
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\Ascii\Ascii\obj\Debug\Ascii.pdb

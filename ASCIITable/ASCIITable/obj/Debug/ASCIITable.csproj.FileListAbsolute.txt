@@ -1,0 +1,5 @@
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\ASCIITable\ASCIITable\bin\Debug\ASCIITable.exe.config
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\ASCIITable\ASCIITable\bin\Debug\ASCIITable.exe
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\ASCIITable\ASCIITable\bin\Debug\ASCIITable.pdb
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\ASCIITable\ASCIITable\obj\Debug\ASCIITable.exe
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\ASCIITable\ASCIITable\obj\Debug\ASCIITable.pdb

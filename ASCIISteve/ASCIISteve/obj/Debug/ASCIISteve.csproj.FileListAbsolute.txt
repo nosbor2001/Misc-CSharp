@@ -1,0 +1,7 @@
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\ASCIISteve\ASCIISteve\bin\Debug\ASCIISteve.exe.config
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\ASCIISteve\ASCIISteve\bin\Debug\ASCIISteve.exe
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\ASCIISteve\ASCIISteve\bin\Debug\ASCIISteve.pdb
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\ASCIISteve\ASCIISteve\obj\Debug\ASCIISteve.csprojAssemblyReference.cache
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\ASCIISteve\ASCIISteve\obj\Debug\ASCIISteve.csproj.CoreCompileInputs.cache
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\ASCIISteve\ASCIISteve\obj\Debug\ASCIISteve.exe
+C:\Users\drewr\Desktop\QE\Computer Science\Projects\ASCIISteve\ASCIISteve\obj\Debug\ASCIISteve.pdb

@@ -1,0 +1,6 @@
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\AdvancedIfStatements\AdvancedIfStatements\bin\Debug\AdvancedIfStatements.exe.config
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\AdvancedIfStatements\AdvancedIfStatements\bin\Debug\AdvancedIfStatements.exe
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\AdvancedIfStatements\AdvancedIfStatements\bin\Debug\AdvancedIfStatements.pdb
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\AdvancedIfStatements\AdvancedIfStatements\obj\Debug\AdvancedIfStatements.csprojResolveAssemblyReference.cache
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\AdvancedIfStatements\AdvancedIfStatements\obj\Debug\AdvancedIfStatements.exe
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\AdvancedIfStatements\AdvancedIfStatements\obj\Debug\AdvancedIfStatements.pdb

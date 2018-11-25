@@ -1,0 +1,5 @@
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\AdvancedBranching\AdvancedBranching\bin\Debug\AdvancedBranching.exe.config
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\AdvancedBranching\AdvancedBranching\bin\Debug\AdvancedBranching.exe
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\AdvancedBranching\AdvancedBranching\bin\Debug\AdvancedBranching.pdb
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\AdvancedBranching\AdvancedBranching\obj\Debug\AdvancedBranching.exe
+\\fs02\studentdata\2018\060202\visual studio 2015\Projects\AdvancedBranching\AdvancedBranching\obj\Debug\AdvancedBranching.pdb
